@@ -1,0 +1,5 @@
+# Ignore working files
+*.sublime-*
+
+# Ignore development files
+application/config/development/*
